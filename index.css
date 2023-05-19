@@ -1,0 +1,15 @@
+body div img {
+  height: 100%;
+  width: 100%;
+}
+body div {
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.welcome {
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
